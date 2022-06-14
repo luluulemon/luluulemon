@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luluulemon
-- 👀 I’m interested in crypto, blockchains, python
-- 🌱 I’m currently learning the ropes on python
+- 👀 I’m interested in crypto, blockchains, programming, python
+- 🌱 I’m currently learning the ropes on java & python
 - 💞️
 - 📫
 
